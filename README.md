@@ -1,8 +1,16 @@
 # lunar-lander-deep-q-Neural-Network-
-* wrost case
-https://github.com/user-attachments/assets/5709a5f0-1809-4fb3-b3c6-ab28b92acad9
+wrost case
 
-*best case
-https://github.com/user-attachments/assets/72329ee4-484f-45d7-a260-7d5ed46ea4bb
+
+https://github.com/user-attachments/assets/9985509c-a5ae-4500-8b85-096865835686
+
+
+
+best case
+
+
+Uploading best case.mp4…
+
+
 
 this is a lunar lander project set on Deep Q-Neural Netwrok that identifying the best way for landing a lander 
